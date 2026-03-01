@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "description": [
+      {"translate":"cef.font","fallback":"Font Maker: "},
+      {"translate":"cef.fontMaker","fallback":"Partyb0ss","color":"#BCEAFD"},
+      "\n",
+      {"translate":"cef.pack","fallback":"Pact Maker: "},
+      {"translate":"cef.packMaker","fallback":"Koolhaas","color":"#BCEAFD"}
+    ],
+    "pack_format": 75.0,
+    "supported_formats": [34, 64],
+    "min_format": 34,
+    "max_format": [80, 0]
+  }
+}
